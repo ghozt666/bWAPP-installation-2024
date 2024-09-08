@@ -127,6 +127,7 @@
     ```
 Note: The reason removing '!' mark is, it could leads to blank screen. Carefully remove the mark.
 
+### SQL Injection error redirect blank page fix 
 
 # Reference
 - Fauzan, F. (2021, July 27). bwapp on ubuntu. Medium. https://medium.com/@farrasfauzannn/1-0-bwapp-on-ubuntu-bacbox-3ee6685014a7
