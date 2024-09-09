@@ -130,7 +130,7 @@ Note: The reason removing '!' mark is, it could leads to blank screen. Carefully
 ### SQL Injection error redirect blank page fix 
 1. change file sqli.php that has keyword mysql_ into mysqli_ , As example i wrote down below with file sqli_1.php
     ![1](https://github.com/user-attachments/assets/d2174111-af34-4afc-b9f3-5836b27efa34)
-2.  restart the apache2 server
+2. restart the apache2 server
     ```sh
    sudo sytemctl service apache2 restart
     ```
